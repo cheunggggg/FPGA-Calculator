@@ -1,7 +1,7 @@
 # FPGA Calculator — Basys3 / Verilog
 
 A hardware calculator implemented in Verilog for the Digilent Basys3 FPGA board. Supports nine arithmetic operations across two signed 6-bit inputs, with results displayed on up to **six seven-segment digits** (four onboard + two via PmodSSD) and a negative-result LED indicator.
-This was created as a final project for COM SCI M152A. WINTER 2025
+This was created as a final project for COM SCI M152A at UCLA. WINTER 2025
 
 ---
 
